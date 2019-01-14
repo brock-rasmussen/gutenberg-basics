@@ -53,7 +53,7 @@
             strike: {
                 type: 'boolean',
                 default: false,
-            }
+            },
         },
 
         edit({ attributes, className, setAttributes }) {
